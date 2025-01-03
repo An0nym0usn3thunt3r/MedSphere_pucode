@@ -13,7 +13,7 @@ Welcome to the **Generative AI-Powered Medical Solutions** repository! This proj
 
 ## Documentation
 This section provides detailed information about the parameters used in our generative AI models. For comprehensive documentation on each parameter, please refer to the links provided.
-The Links to the docs will be soon provided.
+https://kids-dream-jo3.craft.me/OKepN8t8Kjkjee
 
 ## Getting Started
 To get started with our project, follow these steps:
